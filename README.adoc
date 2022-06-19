@@ -16,7 +16,7 @@ endif::[]
 
 IMPORTANT: https://www.youtube.com/watch?v=_BP3SLcB0QE&list=PLyo0RUAM69UufupuvTfSM0XffFTvZReet&index=2[Vídeo aula de introdução ao JUnit 5 no NetBeans 11]
 
-Esta pasta fornece, além de slides sobre TDD, um projeto de exemplo da aplicação de TDD como processo
+Esta pasta fornece, além de slides sobre TDD, um projeto de exemplo da aplicação de TDD como processo;
 de desenvolvimento de software, utilizando neste caso o paradigma de 
 Programação Orientada a Objetos (POO).
 
